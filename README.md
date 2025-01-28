@@ -48,6 +48,11 @@ Grid Search App is a Flutter application that allows users to create a custom le
 ### Grid Search Screen
 <img src="screenshots/grid_search_screen.png" width="300">
 
+Download APK
+
+Download the latest APK from the following link:  
+[Download APK](build/app/outputs/flutter-apk/app-release.apk)
+
 ## Technologies Used
 - Flutter
 - Dart
