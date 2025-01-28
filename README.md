@@ -51,7 +51,7 @@ Grid Search App is a Flutter application that allows users to create a custom le
 Download APK
 
 Download the latest APK from the following link:  
-[Download APK](apk/gridd_search_app_v1.apk)
+[Download APK](apk/grid_search_app_v1.apk.apk)
 
 ## Technologies Used
 - Flutter
