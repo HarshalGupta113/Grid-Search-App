@@ -31,8 +31,8 @@ Grid Search App is a Flutter application that allows users to create a custom le
 
 ## How to Use
 1. **Start the app** (Splash screen will appear for 3 seconds).
-2. **Enter Grid Size (m & n)**: Provide the number of rows and columns.
-3. **Input Letters**: Enter `m * n` letters.
+2. **Enter Grid Size**: Provide the number of rows and columns.
+3. **Input Letters**: Enter letters.
 4. **Grid Display**: The grid appears with letters placed in order.
 5. **Search for a Word**: Enter a word and press "Search".
 6. **Highlighted Word**: If the word is found, its letters will be highlighted.
